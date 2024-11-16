@@ -1,0 +1,6 @@
+openseespy
+opsvis
+numpy
+scipy
+matplotlib
+tabulate
